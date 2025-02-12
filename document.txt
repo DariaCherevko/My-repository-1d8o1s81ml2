@@ -2,3 +2,4 @@ text
 new line
 new line from local
 new line from remote
+line 5
