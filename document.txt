@@ -1,7 +1,2 @@
 text
-<<<<<<< HEAD
-second line
-=======
-
 new line
->>>>>>> 65b5c031a79147a1aebe1f83400b99cee14d2c49
