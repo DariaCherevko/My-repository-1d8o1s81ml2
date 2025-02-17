@@ -1,0 +1,14 @@
+
+new line
+new line from local
+new line from remote
+line 5
+line 6
+
+line y
+
+
+text for change
+
+
+add new text to test git
