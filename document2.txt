@@ -1,5 +1,1 @@
-
-test git
-
-
-add new text to test git
+Here is a new document for git course. Check update
